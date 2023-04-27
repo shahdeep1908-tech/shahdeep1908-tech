@@ -1,16 +1,15 @@
-### Hi there 👋
+## :globe_with_meridians: Socials
 
-<!--
-**shahdeep1908-tech/shahdeep1908-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn: [https://www.linkedin.com/in/deep-shah-a52834169/]
 
-Here are some ideas to get you started:
+## :computer: Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: C#, CSS3, Python, TypeScript
+- Cloud: AWS
+- Frameworks: .NET, Angular.js, React
+- Databases: Amazon DynamoDB, MySQL, Microsoft SQL Server
+- Tools: Docker, Confluence, Django, JWT, Jira, Postman
+
+## :bar_chart: GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[shahdeep1908-tech]&show_icons=true&theme=radical)](https://github.com/[Your GitHub Username])
