@@ -14,8 +14,8 @@
 
 - A passionate Self-directed Back-end developer
 - Currently designing, developing, and implementing Python-based applications using frameworks such as Django, Flask, and Fast API.
-- I am open to collaborate on interesting projects. 
-- I’m currently a proud emplaoyee and a proud freelancer, this is [my resume](https://read.cv/shahdeep1908)
+- I am open to collaborating on interesting projects. 
+- I’m currently a proud employee and a proud freelancer, this is [my resume](https://read.cv/shahdeep1908)
 
 <br><br>
 
